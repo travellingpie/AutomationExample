@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T23:11:09Z" name="WebdriverTestNGDemo.GoogleTitleTest" finished-at="2022-11-29T23:11:41Z" duration-ms="31995">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T23:11:09Z" name="Command line test" finished-at="2022-11-29T23:11:41Z" duration-ms="31995">
+      <class name="WebdriverTestNGDemo.GoogleTitleTest">
+        <test-method signature="testGoogleTitle()[pri:0, instance:WebdriverTestNGDemo.GoogleTitleTest@5e82df6a]" started-at="2022-11-29T23:11:09Z" name="testGoogleTitle" finished-at="2022-11-29T23:11:41Z" duration-ms="31987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleTitle -->
+      </class> <!-- WebdriverTestNGDemo.GoogleTitleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- WebdriverTestNGDemo.GoogleTitleTest -->
+</testng-results>
